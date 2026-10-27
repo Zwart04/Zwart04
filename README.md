@@ -1,91 +1,101 @@
-<!-- ZWART · GitHub profile -->
+<!-- ZWART · GitHub Profile · Indonesian -->
 
 <div align="center">
-
   <a href="https://github.com/Zwart04">
-    <img src="./zwart-hero.svg" alt="ZWART — independent maker and animated pixel cat" width="100%" />
-  </a>
-
-  <a href="https://github.com/Zwart04?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=16&amp;duration=3400&amp;pause=1600&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Making+useful+things+for+the+web+and+beyond.;Exploring+AI%2C+automation%2C+and+open+source.;Less+noise.+More+purpose." alt="Animated introduction" width="90%" />
+    <img src="./zwart-hero.svg" alt="ZWART — banner maskot AI dengan animasi" width="100%" />
   </a>
 
   <p>
-    <a href="https://zwart-website.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/Zwart04?tab=repositories"><img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
-    <a href="https://www.tiktok.com/@f.zwart"><img src="https://img.shields.io/badge/TikTok-24292F?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-    <a href="https://tako.id/Zwart04/gift"><img src="https://img.shields.io/badge/%E2%98%95%20Buy%20Me%20a%20Coffee-24292F?style=for-the-badge" alt="Buy Me a Coffee on Tako" /></a>
+    <strong>🇮🇩 Indonesia</strong> &nbsp;·&nbsp;
+    <a href="./README.en.md">🇬🇧 English</a>
   </p>
 
-  <sub>Independent maker · AI & automation · Web & Android · 🇮🇩 Indonesia</sub>
+  <a href="https://github.com/Zwart04?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=16&amp;duration=3400&amp;pause=1600&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Membuat+teknologi+yang+berguna+dan+mudah+digunakan.;Mengeksplorasi+AI%2C+otomatisasi%2C+dan+open+source.;Dari+ide+sederhana+menjadi+produk+nyata." alt="Perkenalan singkat yang bergerak" width="95%" />
+  </a>
+
+  <p>
+    <a href="https://zwart-website.pages.dev/"><img src="https://img.shields.io/badge/Website-24292F?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website" /></a>
+    <a href="https://www.instagram.com/mm.fkrii/"><img src="https://img.shields.io/badge/Instagram-24292F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.threads.com/@mm.fkrii"><img src="https://img.shields.io/badge/Threads-24292F?style=flat-square&amp;logo=threads&amp;logoColor=white" alt="Threads" /></a>
+    <a href="https://www.tiktok.com/@f.zwart"><img src="https://img.shields.io/badge/TikTok-24292F?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
+    <a href="https://tako.id/Zwart04/gift"><img src="https://img.shields.io/badge/Dukung%20di%20Tako-24292F?style=flat-square&amp;logoColor=white" alt="Dukung saya di Tako" /></a>
+  </p>
+
+  <sub>Pengembang independen · Web App & Android · AI & Otomatisasi · 🇮🇩 Indonesia</sub>
+  <p><a href="#tentang">Tentang</a> · <a href="#proyek-pilihan">Proyek</a> · <a href="#teknologi">Teknologi</a> · <a href="#aktivitas-github">Aktivitas</a></p>
 </div>
 
+Tentang
+Halo, saya Zwart — pengembang independen yang senang mengubah ide dan masalah sehari-hari menjadi aplikasi yang praktis.
 
-Hello, I'm Zwart.
-I turn ideas and everyday problems into software that's useful, simple, and approachable. I build web and Android apps, explore AI-powered workflows, and share experiments along the way.
-Good software should feel effortless — even when building it isn't.
-
-Selected work
+Saya membangun web app dan aplikasi Android, mengeksplorasi AI agent serta otomatisasi, dan membagikan sebagian hasil eksperimen sebagai proyek open source. Bagi saya, perangkat lunak yang baik bukan cuma punya banyak fitur, tetapi juga terasa sederhana saat digunakan.
+Proyek Pilihan
+Enam repositori yang saya pin di profil GitHub:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / AI &amp; DEVELOPER TOOLS</sub>
+      <sub>AI &amp; DEVELOPER TOOLS</sub>
       <h3><a href="https://github.com/Zwart04/zwartflow">ZwartFlow</a></h3>
-      <p>Model routing for AI coding agents. One workflow, multiple models.</p>
+      <p>Pengarah model untuk AI coding agent. Satu alur kerja, berbagai model AI.</p>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / PRODUCTIVITY</sub>
+      <sub>WEB APP · PRODUKTIVITAS</sub>
       <h3><a href="https://github.com/Zwart04/daily-apps">Daily Apps</a></h3>
-      <p>A shared workspace for projects, tasks, learning, and everyday operations.</p>
+      <p>Ruang kerja untuk mengelola proyek, tugas, pembelajaran, dan aktivitas harian.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>03 / ANDROID</sub>
+      <sub>ANDROID · KOTLIN</sub>
       <h3><a href="https://github.com/Zwart04/ZwartGuard">ZwartGuard</a></h3>
-      <p>An Android project built with Kotlin.</p>
+      <p>Proyek aplikasi Android yang dibangun menggunakan Kotlin.</p>
     </td>
     <td width="50%" valign="top">
-      <sub>04 / PERSONAL FINANCE</sub>
+      <sub>ANDROID · KEUANGAN</sub>
       <h3><a href="https://github.com/Zwart04/saku">Saku</a></h3>
-      <p>An offline-first Android expense tracker designed for everyday simplicity.</p>
+      <p>Pencatat pengeluaran offline-first untuk membantu mengelola keuangan sehari-hari.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>05 / EXPERIMENTS</sub>
+      <sub>WEB APP · EKSPERIMEN</sub>
       <h3><a href="https://github.com/Zwart04/rakaat-counter">Rakaat Counter</a></h3>
-      <p>A camera-assisted prayer counter that explores light and shadow detection.</p>
+      <p>Eksperimen penghitung rakaat berbantuan kamera dan deteksi cahaya atau bayangan.</p>
     </td>
     <td width="50%" valign="top">
-      <sub>06 / WEB EXPERIENCE</sub>
+      <sub>WEB · PORTOFOLIO</sub>
       <h3><a href="https://github.com/Zwart04/zwart-website">Zwart Website</a></h3>
-      <p>My home on the web, where projects and experiments come together.</p>
+      <p>Website pribadi yang menyatukan karya, aplikasi, dan eksperimen saya.</p>
     </td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/Zwart04?tab=repositories">Browse all repositories ↗</a></p>
+<p align="right"><a href="https://github.com/Zwart04?tab=repositories">Jelajahi semua repositori ↗</a></p>
 
-Toolbox
+Teknologi
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,dart,kotlin,cs,git,github,cloudflare&amp;theme=dark&amp;perline=9" alt="JavaScript, HTML, CSS, Dart, Kotlin, C#, Git, GitHub, Cloudflare" />
-  <p>
-    <code>Web apps</code> · <code>Android</code> · <code>AI agents</code> · <code>Automation</code> · <code>Open source</code>
-  </p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,dart,kotlin,cs,git,github,cloudflare&amp;theme=dark&amp;perline=9" alt="JavaScript, HTML, CSS, Dart, Kotlin, C#, Git, GitHub, dan Cloudflare" />
+  <p><code>Web App</code> · <code>Android App</code> · <code>AI Agent</code> · <code>Otomatisasi</code> · <code>Open Source</code></p>
 </div>
 
-Activity
 <details>
-  <summary>View contribution streak</summary>
-  <br />
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Zwart04&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=8B949E&amp;fire=8B949E&amp;currStreakLabel=E6EDF3" alt="GitHub contribution streak" />
-  </div>
-</details>
+  <summary><strong>Lihat bidang yang saya eksplorasi</strong></summary>
+
+- Web: antarmuka, aplikasi produktivitas, dan pengalaman pengguna.
+- Android: aplikasi praktis dengan pengalaman yang nyaman di perangkat seluler.
+- AI & otomatisasi: coding agent, routing model, dan penyederhanaan alur kerja.
+- Open source: eksperimen dan alat yang bisa dipelajari serta dikembangkan bersama.</details>
+Aktivitas GitHub
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zwart04&amp;locale=id&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=8B949E&amp;fire=8B949E&amp;currStreakLabel=E6EDF3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Zwart04&amp;locale=id&amp;theme=default&amp;hide_border=true&amp;ring=57606A&amp;fire=57606A" />
+    <img src="https://streak-stats.demolab.com?user=Zwart04&amp;locale=id&amp;theme=default&amp;hide_border=true" alt="Statistik kontribusi dan streak GitHub Zwart04" />
+  </picture>
+</div>
 
 <div align="center">
-  <sub>Made with curiosity. Refined with intention.</sub>
-  <br />
-  <a href="https://zwart-website.pages.dev/">Website</a> · <a href="https://github.com/Zwart04?tab=repositories">Projects</a> · <a href="https://www.tiktok.com/@f.zwart">TikTok</a>
+  <sub>Dibuat dengan rasa ingin tahu. Disempurnakan lewat eksperimen.</sub>
+  <p><a href="https://zwart-website.pages.dev/">Website</a> · <a href="https://github.com/Zwart04?tab=repositories">Repositori</a> · <a href="https://tako.id/Zwart04/gift">Dukung karya</a></p>
 </div>
