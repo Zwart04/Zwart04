@@ -11,10 +11,10 @@
   </a>
 
   <p>
-    <a href="https://zwart-website.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/Zwart04?tab=repositories"><img src="https://img.shields.io/badge/Projects-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
-    <a href="https://www.tiktok.com/@f.zwart"><img src="https://img.shields.io/badge/TikTok-24292F?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-    <a href="https://tako.id/Zwart04/gift"><img src="https://img.shields.io/badge/%E2%98%95%20Traktir%20Kopi-24292F?style=flat-square" alt="Traktir Kopi via Tako" /></a>
+    <a href="https://zwart-website.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/Zwart04?tab=repositories"><img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
+    <a href="https://www.tiktok.com/@f.zwart"><img src="https://img.shields.io/badge/TikTok-24292F?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
+    <a href="https://tako.id/Zwart04/gift"><img src="https://img.shields.io/badge/%E2%98%95%20Buy%20Me%20a%20Coffee-24292F?style=for-the-badge" alt="Buy Me a Coffee on Tako" /></a>
   </p>
 
   <sub>Independent maker · AI & automation · Web & Android · 🇮🇩 Indonesia</sub>
