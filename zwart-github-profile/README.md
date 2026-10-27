@@ -10,7 +10,7 @@
   <a href="https://zwart-website.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Zwart04?tab=repositories"><img src="https://img.shields.io/badge/Projects-182230?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
   <a href="https://www.tiktok.com/@f.zwart"><img src="https://img.shields.io/badge/TikTok-182230?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-  <img src="https://img.shields.io/badge/Based_in-Indonesia-182230?style=flat-square" alt="Based in Indonesia" />
+  <img src="https://img.shields.io/badge/Based_in-Indonesia-182230?style=flat-square" alt="Based in Indonesia🇮🇩" />
 </p>
 
 </div>
