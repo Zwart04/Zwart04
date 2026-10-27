@@ -1,69 +1,76 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="ZWART - building useful things">
   <title>ZWART — Independent Maker</title>
   <defs>
-    <!-- Background Gradient (Slate dark theme) -->
+    <!-- Background Dark Theme -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0F172A" />
       <stop offset="100%" stop-color="#020617" />
     </linearGradient>
     
-    <!-- Accent Gradient -->
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3B82F6" />
-      <stop offset="100%" stop-color="#0F172A" />
+    <!-- Subtle Radial Glow di tengah -->
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Center Top Accent Line -->
+    <linearGradient id="top-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0" />
+      <stop offset="50%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0" />
     </linearGradient>
 
     <style>
-      /* Animasi sederhana dan mulus (tidak lebay) */
       .fade-up { animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards; opacity: 0; }
       .delay-1 { animation-delay: 0.15s; }
       .delay-2 { animation-delay: 0.3s; }
       
       @keyframes fadeUp {
-        from { opacity: 0; transform: translateY(15px); }
+        from { opacity: 0; transform: translateY(12px); }
         to { opacity: 1; transform: translateY(0); }
       }
       @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; transform: none !important; } }
     </style>
   </defs>
 
-  <!-- Base Canvas -->
+  <!-- Base Canvas & Borders -->
   <rect width="1200" height="320" fill="url(#bg)" rx="16" />
-  
-  <!-- Subtle Border & Top Accent Line -->
+  <rect width="1200" height="320" fill="url(#glow)" rx="16" />
   <rect x="1" y="1" width="1198" height="318" fill="none" stroke="#1E293B" stroke-width="2" rx="15" />
-  <path d="M0 16 Q 0 0 16 0 L 800 0" fill="none" stroke="url(#accent)" stroke-width="4" opacity="0.8" />
+  
+  <!-- Glowing Top Edge -->
+  <rect x="300" y="0" width="600" height="2" fill="url(#top-accent)" opacity="0.9" />
 
-  <!-- Minimalist Right Side Graphic (Subtle Diagonal Slashes) -->
-  <g class="fade-up delay-2" stroke="#1E293B" stroke-width="2" stroke-linecap="round">
-    <line x1="850" y1="-50" x2="1100" y2="400" opacity="0.6" />
-    <line x1="920" y1="-50" x2="1170" y2="400" opacity="0.3" />
-    <line x1="990" y1="-50" x2="1240" y2="400" opacity="0.1" />
-  </g>
-
-  <!-- Main Content Group -->
-  <g transform="translate(100, 110)">
+  <!-- Center Aligned Content -->
+  <g text-anchor="middle">
     
     <!-- Top Tagline -->
-    <text x="0" y="0" class="fade-up" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" letter-spacing="2.5">
+    <text x="600" y="100" class="fade-up" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" letter-spacing="3">
       INDEPENDENT MAKER
     </text>
 
     <!-- Main Title -->
-    <text x="-4" y="70" class="fade-up delay-1" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-size="80" font-weight="800" letter-spacing="-2">
+    <text x="600" y="175" class="fade-up delay-1" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-size="80" font-weight="800" letter-spacing="-2">
       ZWART.
     </text>
 
     <!-- Subtitle -->
-    <text x="0" y="115" class="fade-up delay-2" fill="#94A3B8" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="400">
+    <text x="600" y="225" class="fade-up delay-2" fill="#94A3B8" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="400">
       Ideas to products. Built with purpose.
     </text>
+
   </g>
 
-  <!-- Bottom Categories Tag -->
-  <g transform="translate(100, 265)" class="fade-up delay-2">
-    <circle cx="6" cy="-5" r="4.5" fill="#10B981" /> <!-- Green "Online/Active" Dot -->
-    <text x="24" y="0" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1">
+  <!-- Bottom Categories Badge / Pill -->
+  <g transform="translate(600, 275)" class="fade-up delay-2">
+    <!-- Pill Background -->
+    <rect x="-215" y="-18" width="430" height="32" rx="16" fill="#0F172A" stroke="#1E293B" stroke-width="1.5" />
+    
+    <!-- Green Status Dot -->
+    <circle cx="-190" cy="-2" r="4.5" fill="#10B981" />
+    
+    <!-- Category Text -->
+    <text x="10" y="2" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" letter-spacing="1" text-anchor="middle">
       AI TOOLS · APPS · AUTOMATION · OPEN SOURCE
     </text>
   </g>
