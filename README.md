@@ -26,8 +26,8 @@
   <p><a href="#tentang">Tentang</a> · <a href="#proyek-pilihan">Proyek</a> · <a href="#teknologi">Teknologi</a> · <a href="#aktivitas-github">Aktivitas</a></p>
 </div>
 
-Tentang
-Halo, saya Zwart — pengembang independen yang senang mengubah ide dan masalah sehari-hari menjadi aplikasi yang praktis.
+<br>Tentang</br>
+Halo, saya Zwart - pengembang independen yang senang mengubah ide dan masalah sehari-hari menjadi aplikasi yang praktis.
 
 Saya membangun web app dan aplikasi Android, mengeksplorasi AI agent serta otomatisasi, dan membagikan sebagian hasil eksperimen sebagai proyek open source. Bagi saya, perangkat lunak yang baik bukan cuma punya banyak fitur, tetapi juga terasa sederhana saat digunakan.
 Proyek Pilihan
